@@ -6,10 +6,10 @@ O objetivo é criar um sistema completo para gerenciar eventos, permitindo opera
 
 ## Funcionalidades
 O sistema atende aos seguintes requisitos funcionais
-- 1. Criar (Create): Adicionar um novo evento com Título, Descrição, Data, Local e Valor
-- 2. Ler (Read): Listar todos os eventos cadastrados ou pesquisar eventos filtrando pelo título
-- 3. Atualizar (Update): Editar as informações de um evento existente
-- 4. Excluir (Delete): Remover um evento do banco de dados
+1. Criar (Create): Adicionar um novo evento com Título, Descrição, Data, Local e Valor
+2. Ler (Read): Listar todos os eventos cadastrados ou pesquisar eventos filtrando pelo título
+3. Atualizar (Update): Editar as informações de um evento existente
+4. Excluir (Delete): Remover um evento do banco de dados
 
 ## Tecnologias Utilizadas
 ### Backend 
