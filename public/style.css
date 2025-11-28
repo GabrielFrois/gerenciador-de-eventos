@@ -1,0 +1,16 @@
+body {
+    background-color: #f0f2f5;
+}
+
+.card {
+    border: none;
+    border-radius: 10px;
+}
+
+.navbar-brand i {
+    margin-right: 8px;
+}
+
+.table-hover tbody tr {
+    transition: all 0.2s;
+}
